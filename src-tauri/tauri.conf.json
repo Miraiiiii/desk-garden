@@ -17,6 +17,7 @@
         "height": 650,
         "decorations": false,
         "transparent": true,
+        "shadow": false,
         "resizable": false,
         "fullscreen": false,
         "maximized": false
